@@ -1,6 +1,6 @@
 ## Apache Solr
 
-Apache Solr is a pretty neat service to index data. Using a Dockerfile from a older public version and tweaking it to a new version build contained within this repo.
+Solr is highly reliable, scalable and fault tolerant, providing distributed indexing, replication and load-balanced querying, automated failover and recovery, centralized configuration and more. Using a Dockerfile from a older public version and tweaking it to a new version build contained within this repo.
 
 ```
 docker run -it -p 8983:8983 htmlgraphic/solr:5.3.1
